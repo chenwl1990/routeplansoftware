@@ -7,8 +7,9 @@
   "GlobeplanerLars": true,
   "GlobeplanerM3lab": true,
   "Globeplanerguest": true,
-  "guest": true,
+  "guestloser": true,
   "test": false,
   "test1": true,
+  "tester": true,
   "other123": true
 }
