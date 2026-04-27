@@ -1,5 +1,5 @@
 {
-  "CWL123": false,
+  "CWL123": true,
   "shenhaisuo123": true,
   "shenhaisuovip123": true,
   "ABC123": true,
@@ -9,5 +9,6 @@
   "Globeplanerguest": true,
   "guest": true,
   "test": false,
+  "test1": true,
   "other123": true
 }
