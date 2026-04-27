@@ -1,5 +1,5 @@
 {
-  "CWL123": true,
+  "CWL123": false,
   "shenhaisuo123": true,
   "shenhaisuovip123": true,
   "ABC123": true,
@@ -8,5 +8,6 @@
   "GlobeplanerM3lab": true,
   "Globeplanerguest": true,
   "guest": true,
+  "test": false,
   "other123": true
 }
