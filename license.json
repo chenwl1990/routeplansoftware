@@ -9,7 +9,9 @@
   "Globeplanerguest": true,
   "guestloser": true,
   "test": false,
-  "test1": true,
+  "test1": false,
   "tester": true,
+  "test2": true,
   "other123": true
+
 }
