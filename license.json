@@ -9,9 +9,10 @@
   "Globeplanerguest": true,
   "guestloser": true,
   "test": false,
-  "test1": false,
+  "test1": true,
   "tester": true,
   "test2": true,
   "M3labtool": true,
+  "testsoftware": true,
   "other123": true
 }
