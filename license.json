@@ -256,5 +256,14 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T23:46:05"
+  },
+  "Globeplaner_lijiwei": {
+    "allow": true,
+    "require_machine_id": true,
+    "expires_at": "2027-05-25",
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T23:48:08"
   }
 }
