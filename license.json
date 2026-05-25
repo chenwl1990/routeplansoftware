@@ -158,11 +158,11 @@
     "updated_at": "2026-05-25T18:35:54"
   },
   "chenwl": {
-    "allow": false,
+    "allow": true,
     "machine_id": "",
     "machine_id_short": "",
     "computer_name": "",
-    "updated_at": "2026-05-25T18:35:54"
+    "updated_at": "2026-05-25T18:47:31"
   },
   "MeHgtool_Chenwanli": {
     "allow": true,
