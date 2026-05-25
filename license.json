@@ -5,7 +5,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "shenhaisuo123": {
     "allow": true,
@@ -13,7 +14,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "shenhaisuovip123": {
     "allow": true,
@@ -21,7 +23,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "ABC123": {
     "allow": true,
@@ -29,7 +32,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "Divingguest": {
     "allow": true,
@@ -37,7 +41,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "GlobeplanerLars": {
     "allow": true,
@@ -45,7 +50,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "GlobeplanerM3lab": {
     "allow": true,
@@ -53,7 +59,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "Globeplanerguest": {
     "allow": true,
@@ -61,7 +68,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "guestloser": {
     "allow": true,
@@ -69,14 +77,16 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "test": {
     "allow": false,
     "machine_id": "",
     "machine_id_short": "",
     "computer_name": "",
-    "updated_at": "2026-05-25T18:35:54"
+    "updated_at": "2026-05-25T18:35:54",
+    "require_machine_id": true
   },
   "test1": {
     "allow": true,
@@ -84,7 +94,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "tester": {
     "allow": true,
@@ -92,7 +103,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "test2": {
     "allow": true,
@@ -100,7 +112,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "M3labtool": {
     "allow": true,
@@ -108,7 +121,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "testsoftware": {
     "allow": true,
@@ -116,7 +130,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "other123": {
     "allow": true,
@@ -124,7 +139,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "Mehgtool_M3LAB": {
     "allow": true,
@@ -132,7 +148,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "MeHgtool_Eulalie": {
     "allow": true,
@@ -140,7 +157,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "Globeplaner_Lars": {
     "allow": false,
@@ -148,21 +166,25 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:40:50",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "Developer Wanli Chen": {
     "allow": false,
     "machine_id": "",
     "machine_id_short": "",
     "computer_name": "",
-    "updated_at": "2026-05-25T18:35:54"
+    "updated_at": "2026-05-25T18:35:54",
+    "require_machine_id": true
   },
   "chenwl": {
     "allow": true,
-    "machine_id": "",
-    "machine_id_short": "",
+    "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
+    "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-25T19:06:36"
+    "updated_at": "2026-05-25T19:35:02",
+    "require_machine_id": true,
+    "machine_source": "google_sheet_or_usage_log"
   },
   "MeHgtool_Chenwanli": {
     "allow": true,
@@ -170,14 +192,16 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   },
   "Globeplaner_Chenwanli": {
     "allow": false,
     "machine_id": "",
     "machine_id_short": "",
     "computer_name": "",
-    "updated_at": "2026-05-25T18:35:54"
+    "updated_at": "2026-05-25T18:35:54",
+    "require_machine_id": true
   },
   "M3labtool_Chenwanli": {
     "allow": true,
@@ -185,6 +209,7 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "note": "Machine ID required for new machine-bound client authorization."
+    "note": "Machine ID required for new machine-bound client authorization.",
+    "require_machine_id": true
   }
 }
