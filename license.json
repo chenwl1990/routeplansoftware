@@ -7,7 +7,8 @@
     "updated_at": "2026-05-25T21:13:55",
     "note": "Machine ID required for new machine-bound client authorization.",
     "require_machine_id": true,
-    "machine_source": "google_sheet_or_usage_log"
+    "machine_source": "google_sheet_or_usage_log",
+    "expires_at": "2027-05-25"
   },
   "shenhaisuo123": {
     "allow": true,
@@ -16,7 +17,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "shenhaisuovip123": {
     "allow": true,
@@ -25,7 +27,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "ABC123": {
     "allow": true,
@@ -34,7 +37,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "Divingguest": {
     "allow": true,
@@ -43,7 +47,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "GlobeplanerLars": {
     "allow": true,
@@ -52,7 +57,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "GlobeplanerM3lab": {
     "allow": true,
@@ -61,7 +67,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "Globeplanerguest": {
     "allow": true,
@@ -70,7 +77,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "guestloser": {
     "allow": true,
@@ -79,7 +87,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "test": {
     "allow": false,
@@ -87,7 +96,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "test1": {
     "allow": true,
@@ -96,7 +106,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "tester": {
     "allow": true,
@@ -105,7 +116,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "test2": {
     "allow": true,
@@ -114,7 +126,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "M3labtool": {
     "allow": true,
@@ -123,7 +136,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "testsoftware": {
     "allow": true,
@@ -132,7 +146,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "other123": {
     "allow": true,
@@ -141,7 +156,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "Mehgtool_M3LAB": {
     "allow": true,
@@ -150,7 +166,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "MeHgtool_Eulalie": {
     "allow": true,
@@ -159,7 +176,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "Globeplaner_Lars": {
     "allow": true,
@@ -169,7 +187,8 @@
     "updated_at": "2026-05-25T21:13:55",
     "note": "Machine ID required for new machine-bound client authorization.",
     "require_machine_id": true,
-    "machine_source": "google_sheet_or_usage_log"
+    "machine_source": "google_sheet_or_usage_log",
+    "expires_at": "2027-05-25"
   },
   "Developer Wanli Chen": {
     "allow": true,
@@ -178,7 +197,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T21:13:55",
     "require_machine_id": true,
-    "machine_source": "google_sheet_or_usage_log"
+    "machine_source": "google_sheet_or_usage_log",
+    "expires_at": "2027-05-25"
   },
   "chenwl": {
     "allow": false,
@@ -187,7 +207,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T21:13:55",
     "require_machine_id": true,
-    "machine_source": "google_sheet_or_usage_log"
+    "machine_source": "google_sheet_or_usage_log",
+    "expires_at": "2027-05-25"
   },
   "MeHgtool_Chenwanli": {
     "allow": true,
@@ -196,7 +217,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "Globeplaner_Chenwanli": {
     "allow": false,
@@ -204,7 +226,8 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "M3labtool_Chenwanli": {
     "allow": true,
@@ -213,7 +236,8 @@
     "computer_name": "",
     "updated_at": "2026-05-25T18:35:54",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "expires_at": "2027-05-25"
   },
   "Globeplaner_Lars_eric": {
     "allow": true,
@@ -221,7 +245,8 @@
     "machine_id": "",
     "machine_id_short": "",
     "computer_name": "",
-    "updated_at": "2026-05-25T19:47:56"
+    "updated_at": "2026-05-25T19:47:56",
+    "expires_at": "2027-05-25"
   },
   "CWL123test": {
     "allow": true,
@@ -230,7 +255,8 @@
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "chenwldeMacBook-Pro.local",
     "updated_at": "2026-05-25T21:13:55",
-    "machine_source": "google_sheet_or_usage_log"
+    "machine_source": "google_sheet_or_usage_log",
+    "expires_at": "2027-05-25"
   },
   "CWL123testgoogle": {
     "allow": false,
@@ -239,7 +265,8 @@
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
     "updated_at": "2026-05-25T21:17:04",
-    "machine_source": "google_sheet_or_usage_log"
+    "machine_source": "google_sheet_or_usage_log",
+    "expires_at": "2027-05-25"
   },
   "CWL123testgoogle1": {
     "allow": true,
@@ -247,6 +274,16 @@
     "machine_id": "",
     "machine_id_short": "",
     "computer_name": "",
-    "updated_at": "2026-05-25T21:17:00"
+    "updated_at": "2026-05-25T21:17:00",
+    "expires_at": "2027-05-25"
+  },
+  "CWL123testexpire": {
+    "allow": true,
+    "require_machine_id": true,
+    "expires_at": "2027-05-25",
+    "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
+    "machine_id_short": "B93E-39D7-C243-5861",
+    "computer_name": "",
+    "updated_at": "2026-05-25T22:54:58"
   }
 }
