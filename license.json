@@ -252,9 +252,10 @@
     "allow": true,
     "require_machine_id": true,
     "expires_at": "2027-05-25",
-    "machine_id": "",
-    "machine_id_short": "",
-    "computer_name": "",
-    "updated_at": "2026-05-25T23:26:40"
+    "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
+    "machine_id_short": "B93E-39D7-C243-5861",
+    "computer_name": "chenwldeMacBook-Pro.local",
+    "updated_at": "2026-05-25T23:44:09",
+    "machine_source": "manual_paste"
   }
 }
