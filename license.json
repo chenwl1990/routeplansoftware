@@ -1,12 +1,13 @@
 {
   "CWL123": {
     "allow": true,
-    "machine_id": "",
-    "machine_id_short": "",
+    "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
+    "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-25T18:35:54",
+    "updated_at": "2026-05-25T20:16:22",
     "note": "Machine ID required for new machine-bound client authorization.",
-    "require_machine_id": true
+    "require_machine_id": true,
+    "machine_source": "google_sheet_or_usage_log"
   },
   "shenhaisuo123": {
     "allow": true,
@@ -165,25 +166,26 @@
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-25T19:49:08",
+    "updated_at": "2026-05-25T20:16:22",
     "note": "Machine ID required for new machine-bound client authorization.",
     "require_machine_id": true,
     "machine_source": "google_sheet_or_usage_log"
   },
   "Developer Wanli Chen": {
     "allow": true,
-    "machine_id": "",
-    "machine_id_short": "",
+    "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
+    "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-25T19:49:18",
-    "require_machine_id": true
+    "updated_at": "2026-05-25T20:16:22",
+    "require_machine_id": true,
+    "machine_source": "google_sheet_or_usage_log"
   },
   "chenwl": {
     "allow": false,
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-25T19:49:24",
+    "updated_at": "2026-05-25T20:16:22",
     "require_machine_id": true,
     "machine_source": "google_sheet_or_usage_log"
   },
@@ -220,5 +222,13 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T19:47:56"
+  },
+  "CWL123test": {
+    "allow": true,
+    "require_machine_id": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T20:16:12"
   }
 }
