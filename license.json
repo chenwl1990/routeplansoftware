@@ -1,26 +1,190 @@
 {
-  "CWL123": true,
-  "shenhaisuo123": true,
-  "shenhaisuovip123": true,
-  "ABC123": true,
-  "Divingguest": true,
-  "GlobeplanerLars": true,
-  "GlobeplanerM3lab": true,
-  "Globeplanerguest": true,
-  "guestloser": true,
-  "test": false,
-  "test1": true,
-  "tester": true,
-  "test2": true,
-  "M3labtool": true,
-  "testsoftware": true,
-  "other123": true,
-  "Mehgtool_M3LAB": true,
-  "MeHgtool_Eulalie": true,
-  "Globeplaner_Lars": true,
-  "Developer Wanli Chen": false,
-  "chenwl": false,
-  "MeHgtool_Chenwanli": true,
-  "Globeplaner_Chenwanli": false,
-  "M3labtool_Chenwanli": true
+  "CWL123": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "shenhaisuo123": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "shenhaisuovip123": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "ABC123": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "Divingguest": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "GlobeplanerLars": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "GlobeplanerM3lab": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "Globeplanerguest": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "guestloser": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "test": {
+    "allow": false,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54"
+  },
+  "test1": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "tester": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "test2": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "M3labtool": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "testsoftware": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "other123": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "Mehgtool_M3LAB": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "MeHgtool_Eulalie": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "Globeplaner_Lars": {
+    "allow": false,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:40:50",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "Developer Wanli Chen": {
+    "allow": false,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54"
+  },
+  "chenwl": {
+    "allow": false,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54"
+  },
+  "MeHgtool_Chenwanli": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  },
+  "Globeplaner_Chenwanli": {
+    "allow": false,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54"
+  },
+  "M3labtool_Chenwanli": {
+    "allow": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T18:35:54",
+    "note": "Machine ID required for new machine-bound client authorization."
+  }
 }
