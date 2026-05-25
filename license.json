@@ -248,42 +248,13 @@
     "updated_at": "2026-05-25T19:47:56",
     "expires_at": "2027-05-25"
   },
-  "CWL123test": {
-    "allow": true,
-    "require_machine_id": true,
-    "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
-    "machine_id_short": "B93E-39D7-C243-5861",
-    "computer_name": "chenwldeMacBook-Pro.local",
-    "updated_at": "2026-05-25T21:13:55",
-    "machine_source": "google_sheet_or_usage_log",
-    "expires_at": "2027-05-25"
-  },
-  "CWL123testgoogle": {
-    "allow": false,
-    "require_machine_id": true,
-    "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
-    "machine_id_short": "B93E-39D7-C243-5861",
-    "computer_name": "",
-    "updated_at": "2026-05-25T21:17:04",
-    "machine_source": "google_sheet_or_usage_log",
-    "expires_at": "2027-05-25"
-  },
-  "CWL123testgoogle1": {
-    "allow": true,
-    "require_machine_id": true,
-    "machine_id": "",
-    "machine_id_short": "",
-    "computer_name": "",
-    "updated_at": "2026-05-25T21:17:00",
-    "expires_at": "2027-05-25"
-  },
-  "CWL123testexpire": {
+  "Globeplaner_chenwanli": {
     "allow": true,
     "require_machine_id": true,
     "expires_at": "2027-05-25",
-    "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
-    "machine_id_short": "B93E-39D7-C243-5861",
+    "machine_id": "",
+    "machine_id_short": "",
     "computer_name": "",
-    "updated_at": "2026-05-25T22:54:58"
+    "updated_at": "2026-05-25T23:26:40"
   }
 }
