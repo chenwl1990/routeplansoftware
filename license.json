@@ -231,5 +231,13 @@
     "computer_name": "chenwldeMacBook-Pro.local",
     "updated_at": "2026-05-25T20:55:07",
     "machine_source": "manual_paste"
+  },
+  "CWL123testgoogle": {
+    "allow": true,
+    "require_machine_id": true,
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-25T21:12:50"
   }
 }
