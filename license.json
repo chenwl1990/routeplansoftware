@@ -4,7 +4,7 @@
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-25T23:52:41",
+    "updated_at": "2026-05-27T10:20:41",
     "note": "Machine ID required for new machine-bound client authorization.",
     "require_machine_id": true,
     "machine_source": "google_sheet_or_usage_log",
@@ -184,7 +184,7 @@
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-25T23:52:41",
+    "updated_at": "2026-05-27T10:20:41",
     "note": "Machine ID required for new machine-bound client authorization.",
     "require_machine_id": true,
     "machine_source": "google_sheet_or_usage_log",
@@ -195,7 +195,7 @@
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-25T23:52:41",
+    "updated_at": "2026-05-27T10:20:41",
     "require_machine_id": true,
     "machine_source": "google_sheet_or_usage_log",
     "expires_at": "2027-05-25"
@@ -205,7 +205,7 @@
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-25T23:52:41",
+    "updated_at": "2026-05-27T10:20:41",
     "require_machine_id": true,
     "machine_source": "google_sheet_or_usage_log",
     "expires_at": "2027-05-25"
@@ -250,12 +250,12 @@
   },
   "Globeplaner_chenwanlitest": {
     "allow": true,
-    "require_machine_id": false,
+    "require_machine_id": true,
     "expires_at": "2027-05-25",
-    "machine_id": "",
-    "machine_id_short": "",
+    "machine_id": "3ae7ee29fdacaa3f3cb912178a1bf3c2b9355107e2236b5fc62b7aab4d61a9a0",
+    "machine_id_short": "3AE7-EE29-FDAC-AA3F",
     "computer_name": "chenwldeMacBook-Pro.local",
-    "updated_at": "2026-05-27T10:09:25",
+    "updated_at": "2026-05-27T10:20:41",
     "machine_source": "google_sheet_or_usage_log"
   },
   "Globeplaner_lijiwei": {
@@ -266,5 +266,14 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-25T23:48:08"
+  },
+  "Globeplaner_Chenwanli_windows": {
+    "allow": true,
+    "require_machine_id": true,
+    "expires_at": "2027-05-25",
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-05-27T10:44:28"
   }
 }
