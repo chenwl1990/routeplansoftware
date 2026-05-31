@@ -221,12 +221,12 @@
     "expires_at": "2027-05-25"
   },
   "Globeplaner_Chenwanli": {
-    "allow": false,
+    "allow": true,
     "machine_id": "",
     "machine_id_short": "",
     "computer_name": "",
-    "updated_at": "2026-05-25T18:35:54",
-    "require_machine_id": true,
+    "updated_at": "2026-05-31T11:56:57",
+    "require_machine_id": false,
     "expires_at": "2027-05-25"
   },
   "M3labtool_Chenwanli": {
@@ -250,22 +250,22 @@
   },
   "Globeplaner_chenwanlitest": {
     "allow": true,
-    "require_machine_id": true,
+    "require_machine_id": false,
     "expires_at": "2027-05-25",
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "chenwldeMacBook-Pro.local",
-    "updated_at": "2026-05-28T01:16:59",
+    "updated_at": "2026-05-31T11:56:33",
     "machine_source": "google_sheet_or_usage_log"
   },
   "Globeplaner_lijiwei": {
     "allow": true,
-    "require_machine_id": true,
+    "require_machine_id": false,
     "expires_at": "2027-05-25",
     "machine_id": "",
     "machine_id_short": "",
     "computer_name": "",
-    "updated_at": "2026-05-25T23:48:08"
+    "updated_at": "2026-05-31T11:56:39"
   },
   "Globeplaner_Chenwanli_windows": {
     "allow": true,
