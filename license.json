@@ -284,5 +284,23 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-05-28T09:32:49"
+  },
+  "Lijiwei": {
+    "allow": true,
+    "require_machine_id": false,
+    "expires_at": "2027-05-25",
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-08-04T01:07:48"
+  },
+  "李季伟": {
+    "allow": true,
+    "require_machine_id": false,
+    "expires_at": "2027-05-25",
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-08-04T01:08:09"
   }
 }
