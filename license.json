@@ -338,5 +338,14 @@
     "machine_id_short": "",
     "computer_name": "",
     "updated_at": "2026-08-04T01:20:39"
+  },
+  "Dingk": {
+    "allow": true,
+    "require_machine_id": false,
+    "expires_at": "2060-05-25",
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-08-16T06:28:31"
   }
 }
