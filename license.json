@@ -350,11 +350,12 @@
   },
   "zhanghaibin": {
     "allow": true,
-    "require_machine_id": false,
+    "require_machine_id": true,
     "expires_at": "2027-05-25",
-    "machine_id": "",
-    "machine_id_short": "",
-    "computer_name": "",
-    "updated_at": "2026-08-16T14:11:30"
+    "machine_id": "3177230b6b461c03eed329bc474ddb4a12758383bc2e408ea97290d8adb45adb",
+    "machine_id_short": "3177-230B-6B46-1C03",
+    "computer_name": "LAPTOP-2SOACKUJ",
+    "updated_at": "2026-08-16T14:45:08",
+    "machine_source": "manual_paste"
   }
 }
