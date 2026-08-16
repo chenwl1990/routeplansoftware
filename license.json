@@ -287,12 +287,13 @@
   },
   "Lijiwei": {
     "allow": true,
-    "require_machine_id": false,
+    "require_machine_id": true,
     "expires_at": "2027-05-25",
-    "machine_id": "",
-    "machine_id_short": "",
-    "computer_name": "",
-    "updated_at": "2026-08-04T01:07:48"
+    "machine_id": "2236d21f07a75a374f69a4318263598b2a1768ac67d28f1d817e5b05cab49b03",
+    "machine_id_short": "2236-D21F-07A7-5A37",
+    "computer_name": "DESKTOP-I3SO8O5",
+    "updated_at": "2026-08-16T14:47:24",
+    "machine_source": "manual_paste"
   },
   "李季伟": {
     "allow": true,
