@@ -393,9 +393,10 @@
     "allow": true,
     "require_machine_id": true,
     "expires_at": "2027-05-25",
-    "machine_id": "",
-    "machine_id_short": "",
-    "computer_name": "",
-    "updated_at": "2026-09-07T17:56:18"
+    "machine_id": "9661e539af1f2672092c76046c7856043c69dbeed18b16aad491ccf5ecd4c023",
+    "machine_id_short": "9661-E539-AF1F-2672",
+    "computer_name": "pjzhang",
+    "updated_at": "2026-09-07T18:06:33",
+    "machine_source": "manual_paste"
   }
 }
