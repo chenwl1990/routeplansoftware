@@ -388,5 +388,14 @@
     "computer_name": "yzy",
     "updated_at": "2026-09-05T21:50:17",
     "machine_source": "manual_paste"
+  },
+  "Zhangpeijun": {
+    "allow": true,
+    "require_machine_id": true,
+    "expires_at": "2027-05-25",
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-09-07T17:56:18"
   }
 }
