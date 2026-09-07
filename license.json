@@ -4,7 +4,7 @@
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-28T01:16:59",
+    "updated_at": "2026-08-19T07:30:57",
     "note": "Machine ID required for new machine-bound client authorization.",
     "require_machine_id": true,
     "machine_source": "google_sheet_or_usage_log",
@@ -184,7 +184,7 @@
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-28T01:16:59",
+    "updated_at": "2026-08-19T07:30:57",
     "note": "Machine ID required for new machine-bound client authorization.",
     "require_machine_id": true,
     "machine_source": "google_sheet_or_usage_log",
@@ -195,7 +195,7 @@
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-28T01:16:59",
+    "updated_at": "2026-08-19T07:30:57",
     "require_machine_id": true,
     "machine_source": "google_sheet_or_usage_log",
     "expires_at": "2027-05-25"
@@ -205,7 +205,7 @@
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "",
-    "updated_at": "2026-05-28T01:16:59",
+    "updated_at": "2026-08-19T07:30:57",
     "require_machine_id": true,
     "machine_source": "google_sheet_or_usage_log",
     "expires_at": "2027-05-25"
@@ -250,12 +250,12 @@
   },
   "Globeplaner_chenwanlitest": {
     "allow": true,
-    "require_machine_id": false,
+    "require_machine_id": true,
     "expires_at": "2027-05-25",
     "machine_id": "b93e39d7c243586171ab8fa166c47407b4745fd98b82b4b1698b0af811895569",
     "machine_id_short": "B93E-39D7-C243-5861",
     "computer_name": "chenwldeMacBook-Pro.local",
-    "updated_at": "2026-05-31T11:56:33",
+    "updated_at": "2026-08-19T07:30:57",
     "machine_source": "google_sheet_or_usage_log"
   },
   "Globeplaner_lijiwei": {
@@ -269,12 +269,13 @@
   },
   "Globeplaner_Chenwanli_windows": {
     "allow": true,
-    "require_machine_id": false,
+    "require_machine_id": true,
     "expires_at": "2027-05-25",
-    "machine_id": "",
-    "machine_id_short": "",
+    "machine_id": "4cd900815e88e20f6caaa38e48626323e1a1fffc65a04bc90b4cd1968519436a",
+    "machine_id_short": "4CD9-0081-5E88-E20F",
     "computer_name": "",
-    "updated_at": "2026-05-28T01:04:06"
+    "updated_at": "2026-08-19T07:30:57",
+    "machine_source": "google_sheet_or_usage_log"
   },
   "AMA_M3LAB": {
     "allow": true,
@@ -292,8 +293,8 @@
     "machine_id": "2236d21f07a75a374f69a4318263598b2a1768ac67d28f1d817e5b05cab49b03",
     "machine_id_short": "2236-D21F-07A7-5A37",
     "computer_name": "DESKTOP-I3SO8O5",
-    "updated_at": "2026-08-16T14:47:24",
-    "machine_source": "manual_paste"
+    "updated_at": "2026-08-19T07:30:57",
+    "machine_source": "google_sheet_or_usage_log"
   },
   "李季伟": {
     "allow": true,
@@ -367,6 +368,25 @@
     "machine_id_short": "D1D7-3E21-D9D5-3B45",
     "computer_name": "tansuosanhao1",
     "updated_at": "2026-08-18T14:55:03",
+    "machine_source": "manual_paste"
+  },
+  "Fendouzhe": {
+    "allow": true,
+    "require_machine_id": true,
+    "expires_at": "",
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-09-03T19:04:05"
+  },
+  "于子云": {
+    "allow": true,
+    "require_machine_id": true,
+    "expires_at": "2027-05-25",
+    "machine_id": "a0030cbe1bc986542486678effba38ba709c69fa93f0cc40fa677999c6d3637d",
+    "machine_id_short": "A003-0CBE-1BC9-8654",
+    "computer_name": "yzy",
+    "updated_at": "2026-09-05T21:50:17",
     "machine_source": "manual_paste"
   }
 }
