@@ -398,5 +398,14 @@
     "computer_name": "pjzhang",
     "updated_at": "2026-09-07T18:06:33",
     "machine_source": "manual_paste"
+  },
+  "Wangyuanming": {
+    "allow": true,
+    "require_machine_id": true,
+    "expires_at": "2027-05-25",
+    "machine_id": "",
+    "machine_id_short": "",
+    "computer_name": "",
+    "updated_at": "2026-09-12T19:14:59"
   }
 }
