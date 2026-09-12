@@ -401,11 +401,11 @@
   },
   "Wangyuanming": {
     "allow": true,
-    "require_machine_id": true,
+    "require_machine_id": false,
     "expires_at": "2027-05-25",
     "machine_id": "",
     "machine_id_short": "",
     "computer_name": "",
-    "updated_at": "2026-09-12T19:14:59"
+    "updated_at": "2026-09-12T20:30:22"
   }
 }
