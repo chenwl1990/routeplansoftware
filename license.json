@@ -410,11 +410,12 @@
   },
   "Luohongwu": {
     "allow": true,
-    "require_machine_id": false,
-    "expires_at": "2027-05-25",
-    "machine_id": "",
-    "machine_id_short": "",
-    "computer_name": "",
-    "updated_at": "2026-10-02T10:40:25"
+    "require_machine_id": true,
+    "expires_at": "",
+    "machine_id": "52ae703493ffb339e272371f3d37866d77f6a30d9e3c8d7bf1e40014ce61c63a",
+    "machine_id_short": "52AE-7034-93FF-B339",
+    "computer_name": "DESKTOP-RBI9179",
+    "updated_at": "2026-10-07T23:53:41",
+    "machine_source": "manual_paste"
   }
 }
